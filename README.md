@@ -13,3 +13,5 @@
 ### El cuarto comando uso git remote mienlacealreopositoriodemiusuario que se conecta mis archivos al repositorio que he creado en github
 ### Por Ultimo usare el codigo git push -u origin master sube todos los archivos guardados y los sube a mi repositorio de github
 
+### Para actualizar cuando creemos nuevo contenido usaremos git pull 
+
